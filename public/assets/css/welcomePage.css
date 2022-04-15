@@ -1,0 +1,8 @@
+#ul {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  position: absolute;
+  border-radius: 7px;
+  box-shadow: 0 0 5px;
+}
